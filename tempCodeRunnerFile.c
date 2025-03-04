@@ -1,0 +1,1 @@
+sscanf(line, "%d %c", &roll, &status);
